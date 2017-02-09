@@ -9,6 +9,8 @@
         <item url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/match.js" />
         <item url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/match_test.js" />
         <item url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/isPlainObject.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/css/bootstrap.css" />
+        <item url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/js/bootstrap.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/sockjs-0.3.4.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/stream_client_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/random_stream.js" />
@@ -144,6 +146,8 @@
       <root url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/match.js" />
       <root url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/match_test.js" />
       <root url="file://$USER_HOME$/.meteor/packages/check/1.2.4/web.browser/isPlainObject.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/css/bootstrap.css" />
+      <root url="file://$USER_HOME$/.meteor/packages/twbs_bootstrap/3.3.6/web.browser/dist/js/bootstrap.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/sockjs-0.3.4.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/stream_client_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/web.browser/random_stream.js" />
